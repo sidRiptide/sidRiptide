@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sidney Musavili  
+# 👋 Hi, I'm Emmanuel Simon
 
 💻 Fullstack Developer | 🚀 Backend Enthusiast | 🤖 AI Explorer  
 
